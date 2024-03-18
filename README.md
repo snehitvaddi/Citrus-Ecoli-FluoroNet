@@ -1,5 +1,7 @@
 # Citrus-Ecoli-FluoroNet
-An advanced system that classifies different concentrations of E. coli bacteria on citrus fruit surfaces. By analyzing fluorescence images, employing deep learning, and utilizing image wavelet analysis, this tool accurately identifies and categorizes E. coli contamination levels.
+
+A system to classify different concentrations of E. coli bacteria on citrus fruit surfaces. By analyzing fluorescence images, employing deep learning, and utilizing image wavelet analysis, this tool accurately identifies and categorizes E. coli contamination levels.
+This is an ongoing research, led by Dr. Thomas Burks from the Department of Agricultural and Biological Engineering at the University of Florida (UF) and Dr. Pappu Yadav from South Dakota State University (SDSU)
 <table>
   <tr>
     <td align="center">Avg PSNR Decomp level Approx Detail</td>
