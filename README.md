@@ -15,3 +15,6 @@ This is an ongoing research, led by Dr. Thomas Burks from the Department of Agri
   </tr>
 </table>
 
+### Project Workflow
+
+<img src="https://github.com/snehitvaddi/Citrus-Ecoli-FluoroNet/blob/main/Flowchart-PNG.png" alt="Yolov8 Train Val Loss Graphs" />
